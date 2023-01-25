@@ -6,4 +6,4 @@
  3 - O que e um repositorio?
  4 - O que e pull?
  5 - O que e um vcs?
-6-
+6- teste
