@@ -19,3 +19,10 @@ software de controle de versao
 
 6 - O que e puhs?
 enviar as informaçoes que foram empacotadas para o repositorio remoto.
+
+7 - O que e merge?
+ o Git merge permite que você pegue as linhas criadas a partir do Git branch e faça uma integração para a ramificação principal.
+
+8 - O que e branch?
+ e a ramificaçao principal entre a codigo principal e as alteraçoes feitas ja corrigidas
+
