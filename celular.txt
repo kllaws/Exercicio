@@ -1,0 +1,13 @@
+nome do objeto:
+aparelho celular
+
+atributos / propriedade
+grande, pesado, leve, pequeno, preto, branco, prata, robusto, tem carregador, tem fone, quadrado,digital, analogico.
+
+
+metodos/ açoes/ funçoes
+ligaçao, gravassao, fotografia,mandar mensagem, ouvir musica,ver videos, entrar em redes sociais,estudar,trabalhar,passa tempo.
+
+
+estado
+novo, usado,quebrado.
